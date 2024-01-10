@@ -8,4 +8,6 @@ trained_data/filtered_indptr.npy
 trained_data/original_filtered_indices.npy
 celltypes_prediction
 test_meta.tsv
+trained_data_2/*.sav
+X_pca_harmony.tsv
 
