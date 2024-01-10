@@ -10,4 +10,3 @@ celltypes_prediction
 test_meta.tsv
 trained_data_2/*.sav
 X_pca_harmony.tsv
-
